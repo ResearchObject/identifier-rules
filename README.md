@@ -5,12 +5,28 @@ paper [10 Simple rules for design, provision, and reuse of identifiers for web-b
 
 Feel free to [https://github.com/ResearchObject/identifier-rules/wiki/Contribute](Contribute)!
 
-## Why? Is this wiki official?
+## 10 rules for identifiers
 
-At least not at this stage, it's just a private intiative by 
+1. [Use established identifiers](https://github.com/ResearchObject/identifier-rules/wiki/1-Use-established-identifiers)
+2. [Design identifiers for use by others](https://github.com/ResearchObject/identifier-rules/wiki/2-Design-identifiers-for-use-by-others)
+3. [Help local identifiers travel well: document Prefix and Namespace](https://github.com/ResearchObject/identifier-rules/wiki/3-Document-Prefix-and-Namespace)
+4. [Opt for simple durable web resolution](https://github.com/ResearchObject/identifier-rules/wiki/4-Simple-durable-web-resolution)
+5. [Avoid embedding meaning](https://github.com/ResearchObject/identifier-rules/wiki/5-Avoid-embedding-meaning)
+6. [Make URIs clear and findable](https://github.com/ResearchObject/identifier-rules/wiki/6-Make-URIs-clear-and-findable)
+7. [Implement a version management policy](https://github.com/ResearchObject/identifier-rules/wiki/7-Implement-a-version-management-policy)
+8. [Do not re-assign or delete identifiers](https://github.com/ResearchObject/identifier-rules/wiki/8-Do-not-re-assign-or-delete-identifiers)
+9. [Document the identifiers you issue and use](https://github.com/ResearchObject/identifier-rules/wiki/9-Document-the-identifiers-you-issue-and-use)
+10. [Reference responsibly](https://github.com/ResearchObject/identifier-rules/wiki/10-Reference-responsibly)
+
+
+## Is this wiki official?
+
+At least not at this stage, this adaption of the paper
+is just a private intiative by 
 [Stian Soiland-Reyes](http://orcid.org/0000-0001-9842-9718) 
 for the purpose of being able to link to individual identifier rules
-(or shall we say, give the rules individual identifiers).
+on the web 
+(or shall we say, make each rule have an identifier!).
 
 I believe the [original preprint](http://dx.doi.org/10.5281/zenodo.31765) is undergoing peer review 
 for its submission at [PLoS Computational Biology](http://journals.plos.org/ploscompbiol/) and 
