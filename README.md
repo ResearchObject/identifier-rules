@@ -3,7 +3,7 @@
 This repository hosts a [wiki](https://github.com/ResearchObject/identifier-rules/wiki) adapted from the 
 paper [10 Simple rules for design, provision, and reuse of identifiers for web-based life science data](http://dx.doi.org/10.5281/zenodo.31765) by [Julie A McMurry, et al](Authors).
 
-Feel free to [https://github.com/ResearchObject/identifier-rules/wiki/Contribute](Contribute)!
+Feel free to [Contribute](https://github.com/ResearchObject/identifier-rules/wiki/Contribute)!
 
 ## 10 rules for identifiers
 
