@@ -21,16 +21,9 @@ Feel free to [Contribute](https://github.com/ResearchObject/identifier-rules/wik
 
 ## Is this wiki official?
 
-At least not at this stage, this adaption of the paper
-is just a private intiative by 
-[Stian Soiland-Reyes](http://orcid.org/0000-0001-9842-9718) 
-for the purpose of being able to link to individual identifier rules
-on the web 
-(or shall we say, make each rule have an identifier!).
-
-I believe the [original preprint](http://dx.doi.org/10.5281/zenodo.31765) is undergoing peer review 
-for its submission at [PLoS Computational Biology](http://journals.plos.org/ploscompbiol/) and 
-does not (as far as I know) have its own web site or precense beyond its preprint at Zenodo.
+This wiki is is maintained by the [identifiercommons community](https://github.com/identifiercommons), 
+which includes several of the authors of the adapted [original article](http://dx.doi.org/10.5281/zenodo.31765), 
+which is being reworked for submission to a different journal.
 
 
 ## License
